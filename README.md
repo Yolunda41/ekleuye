@@ -5,10 +5,10 @@ Telegram.exe ile çalıştırın
 Rardaki exe dosayısını direk olarak masaüstüne yapıştırma 
 Rar dosyasını c/ klasörüne çıkartıp masaüstünde çalıştırabilir sin 
 Bu program tamamen açık kaynaklı olup geliştirme yapılabilir kesinlikle 
-Satılması yasaktır sevgiler ile 
+Satılması yasaktır sevgiler le 
 
 
-https://spyhackerz.org
+https://spyhackerz.org forum ailesine 
 
 
 t.me/tweety6r
