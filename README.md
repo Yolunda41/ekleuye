@@ -1,6 +1,6 @@
 # ekleuye
 Telegram üye çekme botu 
-Debug zip i indirip direk olarak bilgisayarınıza kurup 
+Ekleuye zip i indirip direk olarak bilgisayarınıza kurup 
 Telegram.exe ile çalıştırın 
 Rardaki exe dosayısını direk olarak masaüstüne yapıştırma 
 Rar dosyasını c/ klasörüne çıkartıp masaüstünde çalıştırabilir sin 
